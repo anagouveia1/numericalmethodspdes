@@ -41,7 +41,7 @@ Could it be possible for someone to produce a wavelike vibration that could equa
 
 It's weird that such a question stood with me for so long. Could we produce a vibration with a different instrument that would produce an action for which structure component reaction would eventually force it to its collapse?
 
-<b>Farther from that, how could a simple matlab model eventually enable the representation of different quantities and the solution of seemingly complex relationships between its specific characteristic variables?</b>
+<b>Farther from that, how could a simple Matlab model eventually enable the representation of different quantities and the solution of seemingly complex relationships between its specific characteristic variables?</b>
 
 <h3> #This question seemed then to be able to be solved in the following ways. </h3>
 
@@ -67,3 +67,16 @@ By solving known equations in soil mechanics, we obtain error values that show h
 
 <h3> #How could this project evolve? </h3>
 By utilizing real data to compare to values obtained by the program results.
+
+<h3> #Further applications & insights: </h3>
+How does this mathematics can actually be applicable to other complex data problems.
+What about some interesting data = one specific bridge.
+What if it could be extended to more then one specific bridge?
+
+;) 
+
+What if this structure is indeed a framework for other things. How does that relate to probabilities? To classic mechanics? To elemental physics and quantum information? How does that relate to mods and other things that seem to all dance in the same lounge?
+
+*Peace, Love & Fun*
+
+[ ARG ]
