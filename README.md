@@ -2,9 +2,11 @@
 Numerical Methods for Partial Differential Equations (last remarks)
 
 <h1> Thinking Mathematically </h1>
-<p> September, 4th 2017 {happylaborday} </p> 
-<p> Boston, MA </p> 
+<p> September, 4th 2017 
+Boston, MA </p> 
 
+ {happylaborday}
+ 
 <p> This is an initial attempt of playing with math. I probably should be working, or be out there doing something that will pay for my bills. I once dwolve into this project and it consummed my mind for a very long time. I'm not really sure if there any applications to such thoughts, other than the elegancy in its mathematics.</p> 
 
 Farther than that, after learning about how GitHub works I thought I'd give it a shot at optimizing its mathematics. 
