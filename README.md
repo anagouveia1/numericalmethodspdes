@@ -5,7 +5,7 @@ Numerical Methods for Partial Differential Equations (last remarks)
 September, 4th 2017 {happylaborday}
 Boston, MA
 
-This is an initial attempt of playing with math. I probably should be working, or be out there doing something that will pay for my bills. I once dwolve into this project and it consummed my mind for a very long time. I'm not really sure if there any applications to such thoughts, other than the elegancy in its mathematics.
+<p> This is an initial attempt of playing with math. I probably should be working, or be out there doing something that will pay for my bills. I once dwolve into this project and it consummed my mind for a very long time. I'm not really sure if there any applications to such thoughts, other than the elegancy in its mathematics.
 
 Farther than that, after learning about how GitHub works I thought I'd give it a shot at optimizing its mathematics. 
 Just wondering what would be the effects of using a 3D mathematical approach instead of its current 2D methods.
@@ -18,14 +18,14 @@ Indeed, this whole thing about determining omegas, and error considerations neve
 
 Once past this part, could I obtain answers to some of the questions I've held?
 
-How do the other parts of the puzzle that I have in mind connect to this framework I'm yet developing?
+How do the other parts of the puzzle that I have in mind connect to this framework I'm yet developing?</p> 
 
 <h2> #The Story of Master Code (PART I) </h2>
 May, 10th 2015
 Lowell, MA
 
-I had no idea what exactly I was doing. In a way, I wanted to answer the question about vibrations.
-Could it be possible for someone to produce a wavelike vibration that could equate in value to a certain material/structure, that in such a way it would allow it to resonate and eventually break it?
+<p> I had no idea what exactly I was doing. In a way, I wanted to answer the question about vibrations.
+Could it be possible for someone to produce a wavelike vibration that could equate in value to a certain material/structure, that in such a way it would allow it to resonate and eventually break it?</p> 
 
 <h3>There were several ways I thought about failure. </h3>
 
