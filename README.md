@@ -80,3 +80,9 @@ What if this structure is indeed a framework for other things. How does that rel
 *Peace, Love & Fun*
 
 [ ARG ]
+
+<h2> #The Story of Master Code (PART II) </h2>
+September, 4th 2017
+Boston, MA
+
+<p> So, after a long time and a lot of life experience I got to where I am now. Things have been going well and hopeflly soon enough things will get even better. To answer the initial question, I went on a quest, I've developed this code and am now attempting to return to it. This is the space where we tackle it back on again. I will start writing a new MD to contain all Matlab files that will host the previously developed program. This is an attempt to consolidate the work that was done. Please, excuse me for my misbehave and such late reply on this.</p> 
