@@ -1,14 +1,14 @@
 # Matlab Final Project: PART B
 Final compilation of one of my Masters degree projects.
 
-<h2>Circular Geometry.m</h2>
+<h2>Circle Geometry.m</h2>
 
 <p>
   <h3>%Circle Geometry</h3>
   <p>
   
 <b>
-275 lines (272 sloc)
+275  lines (272 sloc)
 7530 Bytes
 </b>
 
@@ -291,3 +291,4 @@ axis equal
   </p>
   <b></b>  
 </p>
+
