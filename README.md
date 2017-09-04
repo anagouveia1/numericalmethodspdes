@@ -57,10 +57,10 @@ It's weird that such a question stood with me for so long. Could we produce a vi
 
 <h3> #How does the code answers question: </h3>
 
-<b>1. It discretizes the physical domain.</b>
-<b>2. It meshes and gives the domain the material property characteristics.</b>
-<b>3. It solves for the material displacement in the z axis, pending on force acting on physical domain.</b>
-<b>4. It tells the user value of expected displacement.</b>
+<h4>1. It discretizes the physical domain.</h4>
+<h4>2. It meshes and gives the domain the material property characteristics.</h4>
+<h4>3. It solves for the material displacement in the z axis, pending on force acting on physical domain.</h4>
+<h4>4. It tells the user value of expected displacement.</h4>
 
 <h3> #How did the previous material compare to expected results? </h3>
 By solving known equations in soil mechanics, we obtain error values that show how close the computational model is to our currently applicable methods. 
