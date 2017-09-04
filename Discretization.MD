@@ -1,40 +1,55 @@
 # Project Part A
 Discretizing a mathematical structure.
 
-<h2>Rectangular.m</h2>
+<h2>Making Planes.m</h2>
 
 <p>
-  <h3>%RectangularDiscretization</h3>
+  <h3>% Make a triangle</h3>
   <p>
 
 <b>
-21 lines (14 sloc)
-320 Bytes
+32 lines (24 sloc)
+558 Bytes
 </b>
-
-%RectangularDiscretization:
-
+  
+% Make a triangle
+close all
 clear all
-counter = 1;
+V1 = [0 0]
+V2 = [1 0]
+V3 = [0 2]
 
-for(X = 0.05:0.05:1)
-    for(Z = 0.05:0.05:2)
-        x(counter) = -X^3;
-        z(counter) = Z;
-        counter = counter + 1;
+plot([V1(1) V2(1) V3(1) V1(1)], [V1(2) V2(2) V3(2) V1(2)],'r-o')
+hold on
+% basis function associated with node 1
+
+Plane_Mat = [V1(1) V1(2) 1; V2(1) V2(2) 1; V3(1) V3(2) 1];
+RHS = [0 1 0]';
+
+abc = Plane_Mat\RHS;
+
+a = abc(1);
+b = abc(2);
+c = abc(3);
+
+for(x=0:0.1:1)
+    for(y=0:0.1:(2-2*x))
+        z = a*x + b*y + c;
+        plot3(x, y, z,'.')
+        
     end
 end
 
-Connectivity = delaunay(x,z);
-Vertices = [x',z']
+% slope of basis function
+Centroid = (V1+V2+V3)/3;
 
-figure
-trisurf(Connectivity, x,x*0,z)
-
-  </p>
+quiver(Centroid(1), Centroid(2), a, b)
   
+  </p>
   <b></b>  
 </p>
+
+
 
 
 
